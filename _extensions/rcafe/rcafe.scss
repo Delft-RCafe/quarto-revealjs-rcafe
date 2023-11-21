@@ -1,0 +1,21 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Roboto&display=swap');
+@import url("https://www.nerdfonts.com/assets/css/webfont.css");
+
+$white: #ffffff;
+$black: #000000;
+$blue: #00a6d6;
+
+$font-family-sans-serif: "Roboto", sans-serif;
+$presentation-heading-font: "Bungee", sans-serif;
+$presentation-heading-color: $blue;
+$presentation-h1-font-size: 2em;
+
+// document colours
+$body-bg: $white;
+$body-color: $black;
+$link-color: $blue;
+
+
+/*-- scss:rules --*/

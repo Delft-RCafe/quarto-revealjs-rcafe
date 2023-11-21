@@ -1,0 +1,17 @@
+title: R Café Presentation
+author: R Café
+version: 1.0.0
+quarto-version: ">=1.2.0"
+contributes:
+  formats:
+    revealjs:
+      logo: logo.png
+      title-slide-attributes: 
+        data-background-image: logo.png
+        data-background-size: 16%
+        data-background-position: 50% 10%
+        data-background-color: "#00A6D6"
+      theme: [default, rcafe.scss]
+      #css: fonts.css
+      code-overflow: wrap
+      code-line-numbers: true
