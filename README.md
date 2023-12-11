@@ -6,12 +6,18 @@ A Quarto extension for authoring R Café reveal.js presentations.
 
 To start a new presentation:
 
-```sh
+```bash
 quarto use template Delft-RCafe/quarto-revealjs-rcafe
+```
+
+To add the template to an existing presentation:
+
+```bash
+quarto add Delft-RCafe/quarto-revealjs-rcafe
 ```
 
 Build the presentation
 
-```sh
-quarto render template.qmd
+```bash
+quarto render <slides>.qmd
 ```
