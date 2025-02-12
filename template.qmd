@@ -15,6 +15,20 @@ Some **more** text
 
 ## Delft R Café {.center}
 
+::: {.columns}
+::: {.column width="70%"}
+
 <i class="nf nf-cod-home"></i> [delft-rcafe.github.io/home/](https://delft-rcafe.github.io/home/)  
 <i class="nf nf-md-email"></i> [rcafe-lib@tudelft.nl](mailto:rcafe-lib@tudelft.nl)  
 <i class="nf nf-md-github"></i> [delft-rcafe](https://github.com/delft-rcafe)
+<pre style="font-size: 35px; color: #00A6D6;">  
+Join our mailing list!
+
+</pre>
+
+:::
+
+::: {.column width="30%"}
+![ ](/_extensions/rcafe/qr_code.png){fig-align="center" width="250px"}
+:::
+:::
